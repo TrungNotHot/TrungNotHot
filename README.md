@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc-Trung Tran</h1>
 <h2 align="center">A dedicated HCMUS data science student</h2>
-<img align="right" alt="Coding" width="300" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/giphy.gif">
 
 - [x]  👨‍💻 A coding enthusiast who enjoys spreading his passion
 
@@ -25,6 +25,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="50" height="40"/>
-  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/dbt-seeklogo.svg" alt="dbt" width="60" height="40"/>
+  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/dbt-seeklogo.svg" alt="dbt" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="mino" height="40"/>
 </p>
