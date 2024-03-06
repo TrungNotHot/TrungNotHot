@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc-Trung Tran</h1>
 <h3 align="center">A passionate data science student at HCMUS</h3>
-<img align="right" alt="Coding" width="350" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="Coding" width="350" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/giphy.gif">
 <!--
 **TrungNotHot/TrungNotHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
