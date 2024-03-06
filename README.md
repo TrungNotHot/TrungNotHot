@@ -2,9 +2,11 @@
 <h2 align="center">A dedicated HCMUS data science student</h2>
 <img align="right" alt="Coding" width="300" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/giphy.gif">
 
-- [x]  👨‍💻 A coding enthusiast who enjoys spreading his passion
+- [x] 👨‍💻 A coding enthusiast who enjoys spreading his passion
 
 - [x] 🚣 On my way to Machine Learning Engineer / Data Engineer
+      
+<h3>This is my <a href="https://github.com/TrungNotHot/TrungNotHot/blob/main/resume_TranDucTrung.pdf" target="blank"> resume 📑 </a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
