@@ -29,4 +29,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="50" height="40"/>
   <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/dbt-seeklogo.svg" alt="dbt" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="mino" height="40"/>
+  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/dagster-primary-vertical.svg" alt="mino" height="50"/>
 </p>
