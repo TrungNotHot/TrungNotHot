@@ -4,7 +4,7 @@
 
 - [x] 👨‍💻 A coding enthusiast who enjoys spreading his passion
 
-- [x] 🚣 On my way to Machine Learning Engineer / Data Engineer
+- [x] 🚣 I'm on journey to becoming a machine learning / data engineer.
       
 <h3>This is my <a href="https://github.com/TrungNotHot/TrungNotHot/blob/main/resume_TranDucTrung.pdf" target="blank"> resume 📑 </a> </h3>
 
