@@ -6,7 +6,7 @@
 
 - [x] 🚣 I'm on journey to becoming a machine learning / data engineer.
       
-<h3>This is my <a href="[https://github.com/TrungNotHot/TrungNotHot/blob/main/resume_TranDucTrung.pdf](https://github.com/TrungNotHot/TrungNotHot/blob/main/cv_TranDucTrung_0325647395.pdf)" target="blank"> resume 📑 </a> </h3>
+<h3>This is my <a href="https://github.com/TrungNotHot/TrungNotHot/blob/main/cv_TranDucTrung_0325647395.pdf" target="blank"> resume 📑 </a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
