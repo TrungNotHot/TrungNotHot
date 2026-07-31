@@ -6,8 +6,6 @@
 
 - [x] 🚣 I'm on journey to becoming a machine learning / data engineer.
       
-<h3>This is my <a href="https://github.com/TrungNotHot/TrungNotHot/blob/main/cv_TranDucTrung_0325647395.pdf" target="blank"> resume 📑 </a> </h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/duc.trung.nd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duc trung" height="30" width="40" /></a>
