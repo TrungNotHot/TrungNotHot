@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc-Trung Tran</h1>
-<h2 align="center">Handyman: Jack of all trades, master of none.</h2>
+<h2 align="center">Handyman: Jack of all trades.</h2>
 <img align="right" alt="Coding" width="300" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/giphy.gif">
 
 - [x] 👨‍💻 A coding enthusiast who enjoys spreading his passion
