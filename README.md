@@ -1,31 +1,35 @@
 <h1 align="center">Hi 👋, I'm Duc-Trung Tran</h1>
-<h2 align="center">Handyman: Jack of all trades.</h2>
-<img align="right" alt="Coding" width="300" src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/giphy.gif">
+<h3 align="center">Data/ML Handyman 🛠️ | Converting Coffee into Code & Bugs ☕</h3>
 
-- [x] 👨‍💻 A coding enthusiast who enjoys spreading his passion
-
-- [x] 🚣 I'm on journey to becoming a machine learning / data engineer.
-      
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/duc.trung.nd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duc trung" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/trungnothot/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="duc trung" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/giphy.gif" width="250"/>
 </p>
 
-<h3 align="left">My tech stack:</h3>
+---
+
+### 🎭 A bit about me:
+- 🛠️ **The Vibe:** Jack of all trades — I touch everything, and hopefully, nothing breaks!
+- ☕ **Fuel Source:** Powered by iced coffee, instant noodles, and looming deadlines.
+- 🐛 **Hidden Talent:** Writing 10 lines of code and somehow generating 12 brand-new bugs.
+- 🚣 **On a Journey:** Building robust Data & ML pipelines (or trying to fix the ones I broke 5 minutes ago).
+- 📌 **Work Philosophy:** *"If it doesn't run, restart it. If the pipeline fails, pretend you didn't see the alert."*
+
+---
+
+### ⚡ Tools I play with
+`Python` • `C++` • `SQL` • `Kafka` • `Flink` • `Spark` • `Docker` • `Linux` • `PyTorch`
+
+---
+
+### 📬 Catch up with me
 <p align="left">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="50" height="40"/>
-  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/dbt-seeklogo.svg" alt="dbt" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="mino" height="40"/>
-  <img src="https://github.com/TrungNotHot/TrungNotHot/blob/main/svg/dagster-primary-vertical.svg" alt="mino" height="50"/>
+  <a href="https://www.linkedin.com/in/trungnothot/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/duc.trung.nd/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:trung1803lucky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
