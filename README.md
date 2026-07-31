@@ -7,12 +7,12 @@
 
 ---
 
-### 🎭 A bit about me:
-- 🛠️ **The Vibe:** Jack of all trades — I touch everything, and hopefully, nothing breaks!
-- ☕ **Fuel Source:** Powered by iced coffee, instant noodles, and looming deadlines.
-- 🐛 **Hidden Talent:** Writing 10 lines of code and somehow generating 12 brand-new bugs.
-- 🚣 **On a Journey:** Building robust Data & ML pipelines (or trying to fix the ones I broke 5 minutes ago).
-- 📌 **Work Philosophy:** *"If it doesn't run, restart it. If the pipeline fails, pretend you didn't see the alert."*
+### 👨‍💻 About Me
+
+- 🛠️ **Jack of all trades:** I enjoy getting my hands dirty with different technologies across the stack.
+- 🚣 **On a Journey:** Aspiring Machine Learning & Data Engineer building scalable pipelines and smart systems.
+- 🚀 **Always Learning:** Constantly exploring GitHub to discover cool CS concepts, interesting open-source projects, and new ideas.
+- ☕ **Fun Fact:** Powered by iced coffee, curiosity, and the satisfaction of finally fixing a tricky bug.
 
 ---
 
